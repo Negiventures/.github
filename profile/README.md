@@ -53,6 +53,6 @@ AI and agent integration · technical infrastructure · analytics, SEO and paid 
 
 <div align="center">
 
-**[negiventures.com](https://negiventures.com)** · anirudh@negiventures.com
+**[negiventures.com](https://negiventures.com)**
 
 </div>
